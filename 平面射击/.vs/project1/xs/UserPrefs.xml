@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{E66FED68-071E-F0AC-3037-51659F892569}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player/PlayerController.cs" Line="46" Column="21" />
+      <File FileName="Assets/Scripts/Player/PlayerState.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Weapon/Gun1.cs" />
+      <File FileName="Assets/Scripts/Weapon/Gun2.cs" />
+      <File FileName="Assets/Scripts/Weapon/Gun.cs" />
+      <File FileName="Assets/Scripts/Weapon/Bullet.cs" />
+      <File FileName="Assets/Scripts/Enemies/EnemyAI.cs" />
+      <File FileName="Assets/Scripts/Camera/MineCamera.cs" />
+      <File FileName="Assets/Scripts/AimPoint/AimPoint.cs" />
+      <File FileName="Assets/Scripts/Enemies/EnemyState.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="project1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="AimPoint" expanded="True" />
+                <Node name="Camera" expanded="True" />
+                <Node name="Enemies" expanded="True" />
+                <Node name="Player" expanded="True">
+                  <Node name="PlayerController.cs" selected="True" />
+                </Node>
+                <Node name="Weapon" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="00722f2a-fdef-48bc-b601-6a3bdcd5104b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
